@@ -10,4 +10,5 @@ Text editing area
 
 File → Open, Save, Exit
 
+<img width="762" height="522" alt="image" src="https://github.com/user-attachments/assets/ac40efa9-bc60-4cb4-9012-93e2b9359a30" />
 
